@@ -1,0 +1,207 @@
+.escuela{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 25px;
+}
+
+.menu{
+	text-decoration: none;
+	color:#C2C2C2;
+	display: inline-block;
+	padding: 20px;
+	margin:10px;
+	text-align: center;
+	padding-left: 50px;
+	font-family: "montserrat";
+}
+.fotografia{
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	max-width: 100%;
+	height: 450px;	
+}
+.uno{
+	font-family: "Latolight";
+	color:white;
+	text-align: center;
+	
+}
+.texto-uno{
+	color:white;
+	padding:10px;
+	text-align: justify;
+	padding-top: 10px;
+}
+
+	.sobrenosotros{
+	width: 500px;
+	height: 150px;
+	background-color: #221B0A;
+	max-width: 100%;
+	margin-left: 350px;
+	margin-top: 150px;
+	padding-top: 50px;
+	opacity:0.6;
+
+}
+.textos{
+	position: absolute;
+	left:480px;
+	bottom:250px;
+	text-align: justify;
+	width: 400px;
+}
+
+.background-uno{
+	background-image: url(../img/cubes.png);
+	max-width: 1600px;
+	height: 300px;
+}
+.pilares{
+	color:#C7C8CA;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 60px;
+	padding-left: -30px;
+}
+.unoo{
+	margin-left: 180px;
+}
+.tress{
+margin-right: 180px;
+}
+.linea{
+	width: 250px;
+	height: 2px;
+	background-color: #C7C8CA;
+	margin-top: 30px;
+	margin-left: 190px;
+}
+..primera{
+	margin-left: 100px;
+}
+.segunda{
+	margin-left: 95px;
+}
+.tercera{
+	margin-left: 10px;
+}
+.parrafos{
+	text-align: center;
+	margin-top: 30px;
+	color:#B5B5B5;
+}
+.justi{
+	width: 250px;
+	margin-left: 190px;
+}
+.justifi{
+	width: 250px;
+	margin-left: 100px;
+}
+.justificar{
+	width: 250px;
+	margin-left: 10px;
+}
+.instructores{
+	margin-top: 50px;
+	margin-left: 460px;
+	font-size: 20px;
+	max-width: 100%,
+}
+.profe{
+	padding:40px;
+	padding-top: -20px;
+	width: 200px;
+	height: 190px;
+}
+.pie{
+	margin-left: 40px;
+	margin-top: -30px;
+}
+.pies{
+	margin-top: 20px;
+	margin-left: 40px;
+	font-size: 14px;
+}
+.instructoress{
+	margin-top: 20px;
+	height: 700px;
+}
+.section-cuatro{
+	background-image: url(../img/cubes.png);
+	max-width: 1600px;
+	height: 250px;
+	padding-top: 20px;
+}
+.ladanza{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 100px;
+	}
+.section-seis{
+background-image:url(../img/shoes_!.jpg);
+background-repeat: no-repeat;
+max-width: 100%;
+height: 550px;
+margin-left: 600px;
+}
+.contactanos{
+	color:#1A2952;
+	margin-top: 80px;
+	margin-left: -500px;
+	font-size: 25px;
+
+}
+.nombre{
+	width: 400px;
+	height: 40px;
+	border:1px #CACED6 solid;
+	margin-left: -500px;
+	margin-top: 50px;
+}
+.nombre-uno{
+	width: 400px;
+	height: 40px;
+	border:1px #CACED6 solid;
+	margin-left: -500px;
+	margin-top: 10px;
+}
+.nombre-dos{
+	width: 400px;
+	height: 150px;
+	border:1px #CACED6 solid;
+	margin-left: -500px;
+	margin-top: 10px;
+}
+.enviar{
+	width: 400px;
+	height: 60px;
+	background-color:  #1A2952 ;
+	margin-left: -500px;
+	margin-top: 10px;
+	border-radius: 5px
+
+}
+.env{
+	color:white;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 20px;
+}
+.name{
+	color:black;
+	padding-left: 50px;
+	padding-top: 10px;
+
+}
+.section-siete{
+background-color:#1A2952;
+	max-width: 1600px;
+	height: 100px;
+}
+.foter{
+	color:white;
+	padding-left: 100px;
+	padding-top: 40px;
+}
